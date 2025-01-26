@@ -1,11 +1,14 @@
 # Hiring-Challenge----Facial-Recognition
 Requirement Specifications for Facial Recognition and Authentication Prototype
 
-EventNook is hiring for talented software engineers based in Vietnam to help them build the new products integrated into the core product. Engineers are invited to submit the solution to below challenge. There is a 2nd challenge at this link https://github.com/thsonvt/Hiring-Challenge---Website-Builder-with-AI-Chatbox-Integration/tree/main. You are welcome to attemp both challenges or you can just decide which challenge to take part. Cash award for the winner of each challenge is SGD 500
+EventNook is hiring for talented software engineers based in Vietnam to help them build the new products integrated into the core product. Engineers are invited to submit the solution to below challenge. There is a 2nd challenge at this link https://github.com/thsonvt/Hiring-Challenge---Website-Builder-with-AI-Chatbox-Integration/tree/main. You are welcome to attemp both challenges or you can just decide which challenge to take part. Cash award for the winner of each challenge is SGD 500. The winner will be given a job opportunity to work for EventNook either remotely in Vietnam or in Singapore (subject to CEO's decision).
 
 The CEO will be at the AI BuildCamp Demo Day on the morning of 22/02/2025 to talk about his company and the challenge in details. Interested candidates can speak to him at the event. Here is the event details https://lu.ma/x2a7cxn7
 
+# Deadline for submission - 22/03/2025 23:59
 
+# Contact
+When you have finished attempting the challenge, send an email to thsonvt@gmail.com and cc kyaw.linoo@eventnook.com with the link to your Github.
 
 
 # 1. Project Overview
